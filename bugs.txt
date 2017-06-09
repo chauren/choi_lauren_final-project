@@ -1,0 +1,16 @@
+1) Button class sizes not working when adding buttons inside of a div:
+    class = "button-large"
+
+2) Directions for how to use the Tabs component wasn't in their Components page documentation. But I found another "Tabs" instruction under the Javascript page documentation that worked.
+
+3) Form input, select, and text area in mobile view defaulted way too small
+
+4) Uncoil Hero component not fully responsive in mobile. Header text and button went outside the div and into the main content
+
+5) Carrot for tool tip bubble not showing
+
+6) Tool tip padding for hover content too small
+
+7) Default lists styles didn't apply when I added inside content for Tabs component
+
+8) Tabs component looks odd in mobile, but functions fine

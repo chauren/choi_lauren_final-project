@@ -1,0 +1,36 @@
+header h1 {
+    font-weight: 900;
+}
+
+#home-header {
+    background-image: url(/assets/images/london.jpg);
+}
+
+#home-header h1 {
+    border: 5px solid #FFF;
+    padding:25px;
+}
+
+#locations-header {
+    background-image: url(/assets/images/map.jpg);
+}
+
+#cost-header {
+    background-image: url(/assets/images/cashbox.jpg);
+}
+
+#plan-trip-header {
+    background-image: url(/assets/images/plan-trip.jpg);
+}
+
+#contact-header {
+    background-image: url(/assets/images/contact.jpg);
+}
+
+nav img {
+    width: 50%;
+}
+
+#discount-span {
+    color: #3fc380;
+}
